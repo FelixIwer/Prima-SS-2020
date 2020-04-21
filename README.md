@@ -1,6 +1,6 @@
 # Prima 
 ## GitHub Links below
 
-[GitHub Repo](https://github.com/FelixIwer/Prima)
+[GitHub Repo](https://github.com/FelixIwer/Prima-SS-2020)
 
-[L01_HelloWorld] ()
+[L01_HelloWorld](https://github.com/FelixIwer/Prima-SS-2020/L01_HelloWorld)
