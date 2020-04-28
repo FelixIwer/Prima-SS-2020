@@ -16,6 +16,7 @@ namespace L01_HelloWorld {
 
         quad1.cmpTransform.local.translateX(-1);
         quad2.cmpTransform.local.translateX(1);
+        quad2.cmpTransform.local.rotateY(80);
 
         let cmpCamera: fudge.ComponentCamera = new fudge.ComponentCamera();
         cmpCamera.pivot.translateZ(10);

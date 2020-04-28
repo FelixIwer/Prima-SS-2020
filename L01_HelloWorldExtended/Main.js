@@ -13,6 +13,7 @@ var L01_HelloWorld;
         let node = createQuads();
         quad1.cmpTransform.local.translateX(-1);
         quad2.cmpTransform.local.translateX(1);
+        quad2.cmpTransform.local.rotateY(80);
         let cmpCamera = new fudge.ComponentCamera();
         cmpCamera.pivot.translateZ(10);
         cmpCamera.pivot.rotateY(180);
