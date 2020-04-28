@@ -1,5 +1,4 @@
-namespace L01_HelloWorld
-{
+namespace L01_HelloWorld {
     import fudge = FudgeCore;
 
     let node: fudge.Node = new fudge.Node("TestNode");
